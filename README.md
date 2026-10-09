@@ -13,7 +13,7 @@ The home page is at `/`. `/journal` collects spatial essays adapted from Henryâ€
 
 ## Cloudflare Workers deployment
 
-This is a **Workers Static Assets** deployment. It needs no database, runtime secrets, or application server. `wrangler.jsonc` configures the Worker `trapnest-architecture` and the custom domain `architecture.henrywithu.com`. Deployment has been prepared and dry-run validated; publishing is a separate step.
+This is a **Workers Static Assets** deployment. It needs no database, runtime secrets, or application server. `wrangler.jsonc` configures the Worker `architecture`, matching the connected Cloudflare Workers Builds project, and the custom domain `architecture.henrywithu.com`. The site is deployed at [architecture.henrywithu.com](https://architecture.henrywithu.com/).
 
 ```sh
 npm ci
