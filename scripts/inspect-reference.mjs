@@ -1,0 +1,16 @@
+import { chromium } from 'playwright';
+import { mkdir, writeFile } from 'node:fs/promises';
+await mkdir('research/screenshots',{recursive:true});await mkdir('research/network',{recursive:true});
+const browser=await chromium.launch({executablePath:'/usr/bin/chromium',headless:true,args:['--no-sandbox','--disable-dev-shm-usage','--enable-unsafe-swiftshader'],proxy:{server:process.env.HTTPS_PROXY}});
+const page=await browser.newPage({viewport:{width:1440,height:900},deviceScaleFactor:1});
+const errors=[];const requests=[];
+page.on('pageerror',e=>errors.push(e.message));
+page.on('response',async r=>{requests.push({url:r.url(),status:r.status(),type:r.request().resourceType()});if(r.url().includes('slater')||r.url().includes('assets.sondaven')){try{if(/javascript|json/.test(r.headers()['content-type']||'')){await writeFile('research/network/'+new URL(r.url()).pathname.split('/').pop(),await r.body());}}catch{}}});
+await page.goto('https://sondaven.com/en',{waitUntil:'domcontentloaded',timeout:60000});
+await page.waitForTimeout(20000);
+await page.screenshot({path:'research/screenshots/reference-desktop-top.png'});
+await writeFile('research/rendered.html',await page.content());
+await writeFile('research/network.json',JSON.stringify(requests,null,2));
+await writeFile('research/errors.json',JSON.stringify(errors,null,2));
+console.log(JSON.stringify({title:await page.title(),errors,requests:requests.length,globals:await page.evaluate(()=>Object.keys(window).filter(k=>/scene|lenis|gsap|three|init|audio/i.test(k))),text:await page.locator('body').innerText()},null,2).slice(0,15000));
+await browser.close();

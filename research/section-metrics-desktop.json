@@ -1,0 +1,138 @@
+[
+  {
+    "index": 0,
+    "id": "hero",
+    "class": "section theme_on-color clip",
+    "y": 0,
+    "height": 3600,
+    "text": "INVESTMENT PROJECT\nUP TO 10%\nEXPECTED ANNUAL RETURN\nUP TO 30%\nCAPITALISATION\nPOTENTIAL\nRESORT DESIGN HOTEL IN YAREMCHE\nYAREMCHE \nIVANO-FRANKIVSK\nDEVELOPMENT BY "
+  },
+  {
+    "index": 1,
+    "id": "prolog",
+    "class": "section bg-light theme_on-dark",
+    "y": 3600,
+    "height": 900,
+    "text": "PROLOGUE\n“AMONG THESE MOUNTAINS, WHERE THE WIND BECOMES A VOICE AND FORESTS GUARD THE WISDOM OF THOUSANDS OF YEARS, THE CARPATHIAN HERITAGE COMES ALIVE—A PRIMAL"
+  },
+  {
+    "index": 2,
+    "id": "about",
+    "class": "section bg-light theme_on-light",
+    "y": 4859,
+    "height": 1998,
+    "text": "SON DAVEN\n\nBY BLAGO\n\nABOUT US\n\nSON DAVEN IS A NEW PLACE OF POWER IN\nTHE CARPATHIANS, WHERE HUTSUL\nCULTURE IS REINTERPRETED THROUGH\nARCHITECTURE, SPATIAL DESIGN,"
+  },
+  {
+    "index": 3,
+    "id": "location",
+    "class": "section bg-light theme_on-dark",
+    "y": 6856.6875,
+    "height": 1999,
+    "text": "WHERE\nTHE\nMOUNTAINS\nSPEAK\nWATERFALL BREAKDOWN\nPARK OF LEGENDS “GEDZO”\nHUTSULSHCHYNA (RESTAURANT AND ARCHITECTURAL MONUMENT)\nDOVBUCHA ROCKS\n1200 M\nPARK “CARPATHI"
+  },
+  {
+    "index": 4,
+    "id": "",
+    "class": "section bg-light theme_on-dark",
+    "y": 8855.234375,
+    "height": 136,
+    "text": ""
+  },
+  {
+    "index": 5,
+    "id": "",
+    "class": "section",
+    "y": 8991.234375,
+    "height": 8424,
+    "text": "UNIQUENESS\nWHY SON DAVEN CAPTIVATE\nWELLNESS & SPA\nCUISINE\nWHEN EVEN THE SHEEP GUIDE YOU TO YOGA...\nA SPACE WHERE IDEAS ARE BORN\nA PLACE WHERE CHILDHOOD FLOURISH"
+  },
+  {
+    "index": 6,
+    "id": "commissioning",
+    "class": "section",
+    "y": 17055.234375,
+    "height": 1486,
+    "text": "CONSTRUCTION\nTIMELINE\n‘26\n‘29\n\nCONSTRUCTION BEGINS\n\nIN Q4 2025\n\nSECTION 1 READY\n\nIN Q4 2027\n\nSECTION 2 READY\n\nIN Q4 2028"
+  },
+  {
+    "index": 7,
+    "id": "",
+    "class": "section bg-light",
+    "y": 18540.953125,
+    "height": 1964,
+    "text": "APARTMENTS\nONE- TO THREE-BEDROOM UNITS DESIGNED FOR SOLO TRAVELERS, COUPLES, OR FAMILIES. PANORAMIC WINDOWS, SPACIOUS TERRACES, AND NATURAL TEXTURES AND MATERIA"
+  },
+  {
+    "index": 8,
+    "id": "finance",
+    "class": "section bg-light theme_on-dark",
+    "y": 20503.953125,
+    "height": 1051,
+    "text": "FINANCIAL INDICATORS\nFINANCIAL INDICATORS\nFINANCIAL INDICATORS\nFINANCIAL INDICATORS\nFINANCIAL INDICATORS\nFINANCIAL INDICATORS\nDIVIDEND PAYMENTS BEGIN\nIN Q4\n2028"
+  },
+  {
+    "index": 9,
+    "id": "seasons",
+    "class": "section bg-light theme_on-dark",
+    "y": 21554.953125,
+    "height": 1172,
+    "text": "HOLD AND MOVE\nSUMMER TURNS THIS AREA INTO AN EXCITING ADVENTURE MAP: HIKING TRAILS, MOUNTAIN RIVER RAFTING, CULTURAL FESTIVALS, AND CULINARY JOURNEYS.\nCONSULTAT"
+  },
+  {
+    "index": 10,
+    "id": "developer",
+    "class": "section bg-light theme_on-dark",
+    "y": 22726.953125,
+    "height": 1325,
+    "text": "DEVELOPER\nA LEGEND BROUGHT TO LIFE IN THE VERY HEART OF THE CARPATHIANS, UNITING PAST AND FUTURE\n\nURBAN TECH DEVELOPER CREATES A FUTURE-READY ENVIRONMENT WHERE "
+  },
+  {
+    "index": 11,
+    "id": "factoids",
+    "class": "section bg-light theme_on-dark",
+    "y": 24051.75,
+    "height": 1328,
+    "text": "20+\n\nYEARS OF EXPERIENCE IN THE\nREAL ESTATE MARKET\n\n2\n\nRANKED 2ND AMONG\nDEVELOPERS IN UKRAINE BY\nFORBES UKRAINE\n\n37\n\nCOMPLETED PROJECTS\n\n7\n\nINTERNATIONAL PROPER"
+  },
+  {
+    "index": 12,
+    "id": "gallery",
+    "class": "section",
+    "y": 25379.265625,
+    "height": 1243,
+    "text": "PROJECT\nGALLERY\n1\n14\nINVEST IN SON DAVEN\n\nSON DAVEN IS DESIGNED TO RESTORE ENERGY, DELIVER PROFIT, INSPIRE, AND PROVE THAT TRUE RELAXATION IS NOT A PLACE—IT’S A"
+  },
+  {
+    "index": 13,
+    "id": "blog",
+    "class": "section bg-light theme_on-dark clip",
+    "y": 26622.625,
+    "height": 1216,
+    "text": "BLOG\nLATEST NEWS AND UPDATES\nLATEST UPDATE:\nNEWS\nCONSTRUCTION PROGRESS\n14/8/2026\nЯРЕМЧЕ НЕ БУКОВЕЛЬ. КУДИ ІНВЕСТУВАТИ В КАРПАТАХ У 2026 РОЦІ\n\nБУКОВЕЛЬ ЧИ ЯРЕМЧЕ"
+  },
+  {
+    "index": 14,
+    "id": "cta",
+    "class": "section theme_on-color",
+    "y": 27838.640625,
+    "height": 1800,
+    "text": "EACH INVESTOR BECOMES A CO-OWNER OF A PREMIUM DESIGN HOTEL THAT REDEFINES THE CONCEPT OF LEISURE, ELEVATING IT TO A LEVEL OF SENSATIONS, AESTHETICS, AND MEANING"
+  },
+  {
+    "index": 15,
+    "id": "faq",
+    "class": "section bg-light theme_on-dark",
+    "y": 29638.640625,
+    "height": 1764,
+    "text": "F\nANSWERS TO\nKEY QUESTIONS\nA\nALL YOU NEED\nTO KNOW\nQ\n01\nIF THE HOTEL IS NOT FULL, WHO GUARANTEES THE INCOME?\n\nREVENUE DEPENDS ON REAL WORKLOAD, BUT OUR FINANCIAL"
+  },
+  {
+    "index": 16,
+    "id": "",
+    "class": "section bg-light theme_on-dark",
+    "y": 31402.640625,
+    "height": 1800,
+    "text": "LOCATION\n\nI. PETRASHA ST., 6/3, YAREMCHE, IVANO-FRANKIVSK REGION\n\nSALES DEPARTMENTS\n\n\nIVANO-FRANKIVSK 35 KONOVALTSYA ST.\n\nYAREMCHE\n\n260 SVOBODY ST.\n\nSVOBODY ST."
+  }
+]

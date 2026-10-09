@@ -1,0 +1,1347 @@
+[
+  {
+    "url": "https://sondaven.com/en",
+    "status": 200,
+    "type": "document"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/69f28364671bf58d2d6aed7a_preloader_sheep-1.avif",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/6ab6ae915052508ab1108a69_hf_20260917_100601_ea7a3c11-3c54-4bd8-9cd4-54618340ea0f%201.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/css/sondaven-dev.webflow.shared.bc94df09b.min.css",
+    "status": 200,
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/6a84d7bda6314e15c2a414ef_transition-light-01-3c.svg",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/6ab69e01126e7cb91d5e40fd_final%203.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/697c3acf6bad09a0bb8d9339_ab67727487cf44f099170cdb0cd7ef0a_transition-dark-04.svg",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/js/webflow.a0aa6ca1.a7538fccd85e13c7.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/6940a0abd735a1e3a640d08e_map.svg",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/lenis@1.3.15/dist/lenis.css",
+    "status": 200,
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d047/6987a79448d75be00e7aac28_benefits_02.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d047/698cc59f790c467a5820b4ab_benefits_06.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d047/698cc3403156b65a4c773f1f_27.jpg",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d047/698cc31c27e066c5be416c76_95.jpg",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d047/698cc32864082022e33a57a7_107.jpg",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d047/69c4e615a158d241540df74e_%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B8%20(37).webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/ScrollTrigger.min.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/@finsweet/cookie-consent@1/fs-cc.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/CustomEase.min.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/lenis@1.3.15/dist/lenis.min.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/gsap@3.14.1/dist/Flip.min.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/SplitText.min.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d047/6987d5b28bce69091b1162d3_benefits_08.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/698ccba4d091bac674d376b5_%D0%B2%D0%BE%D0%B4%D0%BE%D1%81%D0%BF%D0%B0%D0%B4%20%D0%BF%D1%80%D0%BE%D0%B1%D1%96%D0%B8%CC%86%201.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/697c3da7844f5fc2f9b5d44d_transition-dark-02-4c.svg",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d047/698cc45891a70b2c59ca3dfe_58.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d047/69e73d36adf9e62d0b1999a6_yaremche%20(1).webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/6940a0abd735a1e3a640d078_KTFMetro-Roman.otf",
+    "status": 200,
+    "type": "font"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/6940a0abd735a1e3a640d079_KTFMetro-Blueline.otf",
+    "status": 200,
+    "type": "font"
+  },
+  {
+    "url": "https://assets.sondaven.com/preloader_sheep.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/698cc94653ff8ebf3369b0ff_render-2-p-1600.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d047/69a188fa7314fc2494508092_news1.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d047/6a7f097b2e1f2e9dd1478279_son_daven_view_under_1024kb-p-1600.jpg",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/697c433cb34f01cb48e5a44e_transition-dark-t-04-4c.svg",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/697c43b1823139f755ab2fc5_transition-dark-b-07-4c.svg",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/6940a0abd735a1e3a640d06f_4cbe061e6fd5a3c989526dd43bfe32d0_landscape.svg",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/697c3eec307d786c260b8c0f_transition-dark-03-4c.svg",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/698cca9e68d0f430d651e880_5f67ba47017f9fe81611b9dd3fc2824b_render-1-p-1600.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/son-daven_short.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/6ab6a4eda67124e1fbe75be6_000.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/6974e6bb87bd38413f57505a_noise.avif",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://unpkg.com/@barba/core",
+    "status": 302,
+    "type": "script"
+  },
+  {
+    "url": "https://assets.sondaven.com/ActiveFrame.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://player.vimeo.com/video/",
+    "status": 404,
+    "type": "document"
+  },
+  {
+    "url": "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6940a0abd735a1e3a640d042",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://player.vimeo.com/video/1198749543",
+    "status": 200,
+    "type": "document"
+  },
+  {
+    "url": "https://player.vimeo.com/video/1198747665",
+    "status": 200,
+    "type": "document"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5Q9DKF9Q",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://unpkg.com/@barba/core@2.10.3/dist/barba.umd.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://player.vimeo.com/video/",
+    "status": 404,
+    "type": "document"
+  },
+  {
+    "url": "https://player.vimeo.com/video/1198749544",
+    "status": 200,
+    "type": "document"
+  },
+  {
+    "url": "https://player.vimeo.com/video/",
+    "status": 404,
+    "type": "document"
+  },
+  {
+    "url": "https://f.vimeocdn.com/p/4.46.126/css/player.css",
+    "status": 200,
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://f.vimeocdn.com/p/4.46.126/css/player.css",
+    "status": 200,
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://f.vimeocdn.com/p/4.46.126/css/player.css",
+    "status": 200,
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://player.vimeo.com/_csp",
+    "status": 400,
+    "type": "other"
+  },
+  {
+    "url": "https://player.vimeo.com/_csp",
+    "status": 400,
+    "type": "other"
+  },
+  {
+    "url": "https://i.vimeocdn.com/video/2165421217-393d3828b3345d1e51cf143086d26e7aaa20cc86bb27783e6fda85a647b0aaf2-d?mw=80&q=85",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://i.vimeocdn.com/video/2165418563-d551030f6b9b80b2827039d248c2f764b636eb0b06461d827e8bfa439f3703d7-d?mw=80&q=85",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://f.vimeocdn.com/p/4.46.126/js/vendor.module.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://f.vimeocdn.com/p/4.46.126/js/vendor.module.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://f.vimeocdn.com/p/4.46.126/js/player.module.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://f.vimeocdn.com/p/4.46.126/js/vendor.module.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://f.vimeocdn.com/p/4.46.126/js/player.module.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://f.vimeocdn.com/p/4.46.126/js/player.module.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://assets.slater.app/slater/18883.js?v=1.0",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://i.vimeocdn.com/video/2165421055-983028073b475aa1e3492e9ca46f9d162b2b949b69df926e383342441ef88ae1-d?mw=80&q=85",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://f.vimeocdn.com/p/4.46.126/js/hls-js.module.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-17483087890&cx=c&gtm=4e6a72",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://i.vimeocdn.com/video/2165418563-d551030f6b9b80b2827039d248c2f764b636eb0b06461d827e8bfa439f3703d7-d",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://f.vimeocdn.com/p/4.46.126/js/hls-js.module.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://f.vimeocdn.com/p/4.46.126/js/hls-js.module.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://i.vimeocdn.com/video/2165421217-393d3828b3345d1e51cf143086d26e7aaa20cc86bb27783e6fda85a647b0aaf2-d",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://www.google.com/ccm/collect?rcb=1&_ng=1&frm=0&apvc=1&ae=g&auid=923354707.1791532615&dt=Son%20Daven%20%E2%80%94%20Design%20Resort%20Hotel%20in%20Yaremche&en=page_view&dl=https%3A%2F%2Fsondaven.com%2Fen&scrsrc=www.googletagmanager.com&rnd=441341536.1791532615&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He6a72v9227075305za200zd9227075305xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120385422~120469145~120469153~121046263~121046271~121246026~121246034~123227968&tft=1791532614596&tfd=1497&fmt=8",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://ad.doubleclick.net/ccm/s/collect?auid=923354707.1791532615&gtm=45He6a72v9227075305za200zd9227075305xeaxf1&fmt=8",
+    "status": 204,
+    "type": "fetch"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-PT58PZFJXL&cx=c&gtm=4e6a72",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://connect.facebook.net/en_US/fbevents.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://assets.slater.app/slater/18883/55210.js?v=278981",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://i.vimeocdn.com/video/2165421055-983028073b475aa1e3492e9ca46f9d162b2b949b69df926e383342441ef88ae1-d",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/000.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/002.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/005.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/001.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/004.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/006.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/003.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/008.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/009.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://www.google.com/rmkt/collect/17483087890/?random=1791532614868&cv=11&fst=1791532614868&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72v9229721517za20ozb9227075305zd9227075305xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034~123227968&u_w=1440&u_h=900&url=https%3A%2F%2Fsondaven.com%2Fen&rcb=17&_ng=1&frm=0&tiba=Son%20Daven%20%E2%80%94%20Design%20Resort%20Hotel%20in%20Yaremche&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=923354707.1791532615&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.173%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://www.google.com/ccm/collect?rcb=17&_ng=1&frm=0&apvc=0&auid=923354707.1791532615&dt=Son%20Daven%20%E2%80%94%20Design%20Resort%20Hotel%20in%20Yaremche&tid=AW-17483087890&en=page_view&dl=https%3A%2F%2Fsondaven.com%2Fen&scrsrc=www.googletagmanager.com&rnd=441341536.1791532615&navt=n&npa=0&gtm=45be6a72v9229721517za20ozb9227075305zd9227075305xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034~123227968&tft=1791532614975&tfd=1875&tids=AW-17483087890&fmt=8",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/011.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/012.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://vod-adaptive-ak.vimeocdn.com/exp=1791536214~acl=%2F8ed9c3f5-1c81-4218-b239-7608c323a96c%2Fpsid%3D2f4307d275800ddbe22b8d9262a50e73e20cd5901791532614%2F%2A~hmac=38a8319731391a9bccafddf291d310c34bf0faa337b6fad18e749c9ff9cf8703/8ed9c3f5-1c81-4218-b239-7608c323a96c/psid=2f4307d275800ddbe22b8d9262a50e73e20cd5901791532614/v2/playlist/av/primary/prot/cHI9NTQwJnFzcj0x/playlist.m3u8?omit=av1-hevc-opus&pathsig=8c953e4f~XbRM-nWcpJM0qau4_S6RuGbF2cQaJ_Dhm6mkjjht55s&pr=540&qsr=1&r=dXM%3D&rh=47tg3n&sf=fmp4",
+    "status": 200,
+    "type": "xhr"
+  },
+  {
+    "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/010.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/016.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/015.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/007.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/013.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://arclight.vimeo.com/add/player-stats?beacon=1&session-id=2f4307d275800ddbe22b8d9262a50e73e20cd5901791532614",
+    "status": 200,
+    "type": "ping"
+  },
+  {
+    "url": "https://arclight.vimeo.com/add/player-stats?beacon=1&session-id=642ebaa5144b285eccb7f9ec025e3300d1ea403d1791532614",
+    "status": 200,
+    "type": "ping"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/017.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/014.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/022.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/021.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/018.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/019.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/023.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/024.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/020.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/025.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/026.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/028.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/027.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/029.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/030.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/032.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/031.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/033.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/034.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/036.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/037.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/035.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/038.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/039.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/041.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/045.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/043.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/042.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/040.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/044.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/046.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/047.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/049.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/048.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/051.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/053.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/054.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://vod-adaptive-ak.vimeocdn.com/exp=1791536214~acl=%2Fd1fe91f7-9580-4c40-934e-64e38bb1448b%2Fpsid%3D642ebaa5144b285eccb7f9ec025e3300d1ea403d1791532614%2F%2A~hmac=93643f235cf9924b70738235f999f82a1253eec913b78992c3f8469508845329/d1fe91f7-9580-4c40-934e-64e38bb1448b/psid=642ebaa5144b285eccb7f9ec025e3300d1ea403d1791532614/v2/playlist/av/primary/prot/cHI9NTQwJnFzcj0x/playlist.m3u8?omit=av1-hevc-opus&pathsig=8c953e4f~2X2k9s-UZEeYCNmWRTGtk4N7OhqCYevh6biotK4nXSY&pr=540&qsr=1&r=dXM%3D&rh=197vDQ&sf=fmp4",
+    "status": 200,
+    "type": "xhr"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/050.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/052.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/055.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/056.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/057.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/060.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://arclight.vimeo.com/add/player-stats?beacon=1&session-id=96e12004bc857790f30394a3bce60f6b256747a61791532614",
+    "status": 200,
+    "type": "ping"
+  },
+  {
+    "url": "https://vod-adaptive-ak.vimeocdn.com/exp=1791536214~acl=%2F5bc2eed9-09e7-4b56-af11-844bac46bb86%2Fpsid%3D96e12004bc857790f30394a3bce60f6b256747a61791532614%2F%2A~hmac=e090094901effddfdd64e968615054c732b986e0de699c5378ad29e0e8d8012e/5bc2eed9-09e7-4b56-af11-844bac46bb86/psid=96e12004bc857790f30394a3bce60f6b256747a61791532614/v2/playlist/av/primary/prot/cHI9NTQwJnFzcj0x/playlist.m3u8?omit=av1-hevc-opus&pathsig=8c953e4f~HHwTGhz0MXPiBdmGcBu5NDFedbRRzEynHNy5_9hzw_M&pr=540&qsr=1&r=dXM%3D&rh=1kb1pU&sf=fmp4",
+    "status": 200,
+    "type": "xhr"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/058.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/059.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/062.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/065.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/063.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/064.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/061.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/067.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/066.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/068.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/070.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/071.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/072.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/069.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/073.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/075.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/074.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/077.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/078.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/079.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/076.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/082.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/081.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/083.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/080.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/084.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/085.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/087.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/086.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/088.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/089.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/090.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/093.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/091.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/094.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/092.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/095.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/098.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/100.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/097.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/096.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/101.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/103.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/099.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/102.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/105.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/106.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/107.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/112.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/104.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/111.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/110.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/115.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/113.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/116.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/114.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/109.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/108.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://i.vimeocdn.com/portrait/defaults-blue_60x60?region=us",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://i.vimeocdn.com/portrait/defaults-blue_60x60?region=us",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://i.vimeocdn.com/portrait/defaults-blue_60x60?region=us",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/119.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://www.gstatic.com/eureka/clank/151/cast_sender.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://www.gstatic.com/eureka/clank/151/cast_sender.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://www.gstatic.com/eureka/clank/151/cast_sender.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/117.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/hero-video-new/118.webp",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://www.gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17483087890/?random=1791532614868&cv=11&fst=1791532614868&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72v9229721517za20ozb9227075305zd9227075305xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034~123227968&u_w=1440&u_h=900&url=https%3A%2F%2Fsondaven.com%2Fen&rcb=17&_ng=1&frm=0&tiba=Son%20Daven%20%E2%80%94%20Design%20Resort%20Hotel%20in%20Yaremche&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=923354707.1791532615&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.173%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://www.gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-PT58PZFJXL&gtm=45je6a72v9227419796za20ozb9227075305zd9227075305xf1&_p=1791532613483&_gaz=1&gcd=13l3l3l3l1l1&npa=0&_ng=1&dma=0&_eu=AAAAACAC&are=1&cid=1635211325.1791532615&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=11&sr=1440x900&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.173%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&sid=1791532615&sct=1&seg=0&dl=https%3A%2F%2Fsondaven.com%2Fen&dt=Son%20Daven%20%E2%80%94%20Design%20Resort%20Hotel%20in%20Yaremche&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=2320",
+    "status": 204,
+    "type": "fetch"
+  },
+  {
+    "url": "https://stats.g.doubleclick.net/g/collect?v=2&_ng=1&ngs=1&ibt=1&tid=G-PT58PZFJXL&cid=1635211325.1791532615&gtm=45je6a72v9227419796za20ozb9227075305zd9227075305xf1&rcb=11&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034",
+    "status": 204,
+    "type": "ping"
+  },
+  {
+    "url": "https://connect.facebook.net/signals/config/895931153119686?v=2.9.415&r=stable&domain=sondaven.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://www.gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://www.google.com/pagead/1p-user-list/17483087890/?random=1791532614868&cv=11&fst=1791529200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72v9229721517za20ozb9227075305zd9227075305xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034~123227968&u_w=1440&u_h=900&url=https%3A%2F%2Fsondaven.com%2Fen&rcb=17&_ng=1&frm=0&tiba=Son%20Daven%20%E2%80%94%20Design%20Resort%20Hotel%20in%20Yaremche&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=923354707.1791532615&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.173%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAQM4h3OUZlfawtZeAe2ScFX6WKWTtjpe6M_rMyoK2djOA7S6Jim_688L3s9FbRqMZ7NhAe10D3ur5y56EIL-XhSTGcRU5xZsDKYaONlVWqwoVjzfg2RTLUnasU3cqK-b9XgLQYa089TPKvfC2U_h2e7CZARgX2FoE9Wtfism06PXhqzFFNVZeAJ8EYVPLJiSCyGXKpJqfHzD6PjJAiyFxN5Ah1zld7h_MpSmXlxNSNeG2KAbDY4bqNbKxxND9IB2q9lFkS_Jr8Y0y_yPuhyaDAiRYjQ&random=2039470953&rmt_tld=0&ipr=y",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://connect.facebook.net/signals/config/1398898838926322?v=2.9.415&r=stable&domain=sondaven.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188%2C267%2C265%2C260%2C262%2C263%2C264%2C261%2C259%2C246%2C266%2C268%2C258%2C216%2C217%2C269%2C270%2C257%2C256%2C351%2C352%2C229%2C224%2C227%2C228%2C206%2C222%2C387%2C303%2C307%2C310%2C311%2C312%2C308%2C313%2C306%2C301%2C315%2C316%2C305%2C314%2C318%2C309%2C304%2C317%2C319%2C302%2C239%2C300%2C205%2C225%2C226%2C250%2C223%2C221%2C277%2C241%2C214%2C215%2C211%2C212%2C213%2C210%2C208%2C219%2C220%2C218%2C325%2C380%2C345%2C346%2C348%2C349%2C347%2C344%2C343%2C230%2C280%2C287%2C288%2C281%2C283%2C286%2C284%2C285%2C282%2C279%2C298%2C292%2C295%2C291%2C299%2C296%2C290%2C294%2C297%2C293%2C289%2C339%2C356",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/6940a0abd735a1e3a640d076_fav_32x32.png",
+    "status": 200,
+    "type": "other"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/697e2b5ea694ae5f751655ec_95efa55632b52e963bc2cbf7f0447122_hero_hay.avif",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/697656035b94c920c471d4de_ac179cd8d062e41260b178efc691b568_benefits-intro_hole.avif",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/69ca6aa1e460a649ef2a7972_fin_mounain.avif",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/697bfe61104a60fa63e1f7b2_19804f2b1c9ceedd0cd04ed721b36ef6_intro_mauntain.avif",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/697c00f3737120e569370c7a_98c738340828600251b32ef432d3de26_hero_mauntain-bg.avif",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/prolog-l-c.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/hero_tree-c.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/hero_sheeps-c.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/birds_03.hevc.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/birds_04.hevc.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/claudes_02.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/claudes_03.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/prolog-r-c.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/prolog-l-c.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/birds_02-c.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/about_stork-c.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/prolog-r-c.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/seasons_summer.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/benefits-intro_persons-cc.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/seasons_winter.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/benefits-intro_birds-c.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/benefits-outro_sheeps.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/birds_05-c.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/claudes_02.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/claudes_01.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/benefits-outro_tree-c.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/factoids_river-c.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/factoids_sheeps-c.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/birds_04.hevc.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/factoids_person-cc.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/birds_03.hevc.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/birds_02-c.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/footer_mountain.hevc.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/birds_03.hevc.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/birds_02-c.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://assets.sondaven.com/scenes/footer_sheeps-c.mp4",
+    "status": 206,
+    "type": "media"
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-PT58PZFJXL&gtm=45je6a72v9227419796z89227075305za20gzb9227075305zd9227075305xf1&_p=1791532613483&gcd=13l3l3l3l1l1&npa=0&_ng=1&dma=0&_eu=AAAAACQC&are=1&cid=1635211325.1791532615&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=11&sr=1440x900&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.173%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=2&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&sid=1791532615&sct=1&seg=0&dl=https%3A%2F%2Fsondaven.com%2Fen&dt=Son%20Daven%20%E2%80%94%20Design%20Resort%20Hotel%20in%20Yaremche&en=gtm.js&_et=10&tfd=7335",
+    "status": 204,
+    "type": "fetch"
+  },
+  {
+    "url": "https://assets.sondaven.com/son-daven_short.mp4",
+    "status": 206,
+    "type": "media"
+  }
+]
