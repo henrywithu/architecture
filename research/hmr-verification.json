@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "checks": [
+    "Shader edit updates without document reload",
+    "Exactly one page/header/noise instance",
+    "Menu events remain functional after HMR"
+  ],
+  "errors": []
+}

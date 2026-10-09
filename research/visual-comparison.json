@@ -1,0 +1,326 @@
+[
+  {
+    "capture": "ref-consultation.png",
+    "mean_absolute_channel_difference": 0.006416923868312757,
+    "fraction_pixels_difference_over_12": 0.00024151234567901234,
+    "size": [
+      1440,
+      900
+    ]
+  },
+  {
+    "capture": "ref-desktop-0-hero.png",
+    "mean_absolute_channel_difference": 0.01794212962962963,
+    "fraction_pixels_difference_over_12": 0.0005030864197530864,
+    "size": [
+      1440,
+      900
+    ]
+  },
+  {
+    "capture": "ref-desktop-1-prolog.png",
+    "mean_absolute_channel_difference": 0.16576131687242798,
+    "fraction_pixels_difference_over_12": 0.003839506172839506,
+    "size": [
+      1440,
+      900
+    ]
+  },
+  {
+    "capture": "ref-desktop-10-developer.png",
+    "mean_absolute_channel_difference": 5.6644616769547325,
+    "fraction_pixels_difference_over_12": 0.05910185185185185,
+    "size": [
+      1440,
+      900
+    ]
+  },
+  {
+    "capture": "ref-desktop-11-factoids.png",
+    "mean_absolute_channel_difference": 0.7769452160493827,
+    "fraction_pixels_difference_over_12": 0.007661265432098765,
+    "size": [
+      1440,
+      900
+    ]
+  },
+  {
+    "capture": "ref-desktop-12-gallery.png",
+    "mean_absolute_channel_difference": 0.004189300411522634,
+    "fraction_pixels_difference_over_12": 0.00011882716049382716,
+    "size": [
+      1440,
+      900
+    ]
+  },
+  {
+    "capture": "ref-desktop-13-blog.png",
+    "mean_absolute_channel_difference": 0.005364454732510289,
+    "fraction_pixels_difference_over_12": 0.00011574074074074075,
+    "size": [
+      1440,
+      900
+    ]
+  },
+  {
+    "capture": "ref-desktop-14-cta.png",
+    "mean_absolute_channel_difference": 2.4650578703703703,
+    "fraction_pixels_difference_over_12": 0.030234567901234567,
+    "size": [
+      1440,
+      900
+    ]
+  },
+  {
+    "capture": "ref-desktop-15-faq.png",
+    "mean_absolute_channel_difference": 0.20693081275720168,
+    "fraction_pixels_difference_over_12": 0.0035092592592592593,
+    "size": [
+      1440,
+      900
+    ]
+  },
+  {
+    "capture": "ref-desktop-16-section.png",
+    "mean_absolute_channel_difference": 0.005012860082304527,
+    "fraction_pixels_difference_over_12": 0.00011728395061728395,
+    "size": [
+      1440,
+      900
+    ]
+  },
+  {
+    "capture": "ref-desktop-2-about.png",
+    "mean_absolute_channel_difference": 0.7276000514403291,
+    "fraction_pixels_difference_over_12": 0.007529320987654321,
+    "size": [
+      1440,
+      900
+    ]
+  },
+  {
+    "capture": "ref-desktop-3-location.png",
+    "mean_absolute_channel_difference": 0.144931841563786,
+    "fraction_pixels_difference_over_12": 0.003136574074074074,
+    "size": [
+      1440,
+      900
+    ]
+  },
+  {
+    "capture": "ref-desktop-4-section.png",
+    "mean_absolute_channel_difference": 0.00596116255144033,
+    "fraction_pixels_difference_over_12": 0.0001419753086419753,
+    "size": [
+      1440,
+      900
+    ]
+  },
+  {
+    "capture": "ref-desktop-5-section.png",
+    "mean_absolute_channel_difference": 2.243900977366255,
+    "fraction_pixels_difference_over_12": 0.021862654320987655,
+    "size": [
+      1440,
+      900
+    ]
+  },
+  {
+    "capture": "ref-desktop-6-commissioning.png",
+    "mean_absolute_channel_difference": 0.0065084876543209874,
+    "fraction_pixels_difference_over_12": 0.00014120370370370372,
+    "size": [
+      1440,
+      900
+    ]
+  },
+  {
+    "capture": "ref-desktop-7-section.png",
+    "mean_absolute_channel_difference": 0.00409130658436214,
+    "fraction_pixels_difference_over_12": 0.0001080246913580247,
+    "size": [
+      1440,
+      900
+    ]
+  },
+  {
+    "capture": "ref-desktop-8-finance.png",
+    "mean_absolute_channel_difference": 1.2082772633744856,
+    "fraction_pixels_difference_over_12": 0.01777932098765432,
+    "size": [
+      1440,
+      900
+    ]
+  },
+  {
+    "capture": "ref-desktop-9-seasons.png",
+    "mean_absolute_channel_difference": 0.5023433641975309,
+    "fraction_pixels_difference_over_12": 0.010748456790123456,
+    "size": [
+      1440,
+      900
+    ]
+  },
+  {
+    "capture": "ref-menu.png",
+    "mean_absolute_channel_difference": 1.276262088477366,
+    "fraction_pixels_difference_over_12": 0.014207561728395062,
+    "size": [
+      1440,
+      900
+    ]
+  },
+  {
+    "capture": "ref-mobile-0-hero.png",
+    "mean_absolute_channel_difference": 0.032421922469315835,
+    "fraction_pixels_difference_over_12": 0.0006987483290800826,
+    "size": [
+      390,
+      844
+    ]
+  },
+  {
+    "capture": "ref-mobile-1-prolog.png",
+    "mean_absolute_channel_difference": 0.01998217685421477,
+    "fraction_pixels_difference_over_12": 0.0005286183011301495,
+    "size": [
+      390,
+      844
+    ]
+  },
+  {
+    "capture": "ref-mobile-10-developer.png",
+    "mean_absolute_channel_difference": 0.34418621136630617,
+    "fraction_pixels_difference_over_12": 0.011547575647101713,
+    "size": [
+      390,
+      844
+    ]
+  },
+  {
+    "capture": "ref-mobile-11-factoids.png",
+    "mean_absolute_channel_difference": 4.867876817758334,
+    "fraction_pixels_difference_over_12": 0.05938145582695346,
+    "size": [
+      390,
+      844
+    ]
+  },
+  {
+    "capture": "ref-mobile-12-gallery.png",
+    "mean_absolute_channel_difference": 0.28613339004334265,
+    "fraction_pixels_difference_over_12": 0.005480617328958561,
+    "size": [
+      390,
+      844
+    ]
+  },
+  {
+    "capture": "ref-mobile-13-blog.png",
+    "mean_absolute_channel_difference": 0.4371035362741524,
+    "fraction_pixels_difference_over_12": 0.008208773848584275,
+    "size": [
+      390,
+      844
+    ]
+  },
+  {
+    "capture": "ref-mobile-14-cta.png",
+    "mean_absolute_channel_difference": 0.36522461214404345,
+    "fraction_pixels_difference_over_12": 0.013519261149592903,
+    "size": [
+      390,
+      844
+    ]
+  },
+  {
+    "capture": "ref-mobile-15-faq.png",
+    "mean_absolute_channel_difference": 0.024083525742293516,
+    "fraction_pixels_difference_over_12": 0.0005650747356908494,
+    "size": [
+      390,
+      844
+    ]
+  },
+  {
+    "capture": "ref-mobile-16-section.png",
+    "mean_absolute_channel_difference": 1.3863875724065295,
+    "fraction_pixels_difference_over_12": 0.016229189451938266,
+    "size": [
+      390,
+      844
+    ]
+  },
+  {
+    "capture": "ref-mobile-2-about.png",
+    "mean_absolute_channel_difference": 0.7180773281484182,
+    "fraction_pixels_difference_over_12": 0.025525580264916758,
+    "size": [
+      390,
+      844
+    ]
+  },
+  {
+    "capture": "ref-mobile-3-location.png",
+    "mean_absolute_channel_difference": 0.6697391339571435,
+    "fraction_pixels_difference_over_12": 0.019294567991250455,
+    "size": [
+      390,
+      844
+    ]
+  },
+  {
+    "capture": "ref-mobile-4-section.png",
+    "mean_absolute_channel_difference": 4.681964191679832,
+    "fraction_pixels_difference_over_12": 0.04572244501154454,
+    "size": [
+      390,
+      844
+    ]
+  },
+  {
+    "capture": "ref-mobile-5-section.png",
+    "mean_absolute_channel_difference": 6.864245351804594,
+    "fraction_pixels_difference_over_12": 0.06704338315712724,
+    "size": [
+      390,
+      844
+    ]
+  },
+  {
+    "capture": "ref-mobile-6-commissioning.png",
+    "mean_absolute_channel_difference": 1.7683953092720863,
+    "fraction_pixels_difference_over_12": 0.03236419978126139,
+    "size": [
+      390,
+      844
+    ]
+  },
+  {
+    "capture": "ref-mobile-7-section.png",
+    "mean_absolute_channel_difference": 0.9445598898205533,
+    "fraction_pixels_difference_over_12": 0.017061611374407582,
+    "size": [
+      390,
+      844
+    ]
+  },
+  {
+    "capture": "ref-mobile-8-finance.png",
+    "mean_absolute_channel_difference": 0.9750546846518411,
+    "fraction_pixels_difference_over_12": 0.018127962085308057,
+    "size": [
+      390,
+      844
+    ]
+  },
+  {
+    "capture": "ref-mobile-9-seasons.png",
+    "mean_absolute_channel_difference": 0.37830943411512136,
+    "fraction_pixels_difference_over_12": 0.007373313889901568,
+    "size": [
+      390,
+      844
+    ]
+  }
+]

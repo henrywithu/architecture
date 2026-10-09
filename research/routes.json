@@ -1,5 +1,9 @@
 [
   {
+    "path": "/en",
+    "file": "research/reference.html"
+  },
+  {
     "path": "/en/construction-progress",
     "file": "research/pages/en__construction-progress.html"
   },
@@ -58,5 +62,45 @@
   {
     "path": "/ua/news",
     "file": "research/pages/ua__news.html"
+  },
+  {
+    "path": "/ua/construction-progress/budivnictvo-son-daven-u-travni",
+    "file": "research/pages/ua__construction-progress__budivnictvo-son-daven-u-travni.html"
+  },
+  {
+    "path": "/ua/construction-progress/budivnytstva-son-daven-nova-legenda-investytsiinoi-nerukhomosti-v-karpatakh",
+    "file": "research/pages/ua__construction-progress__budivnytstva-son-daven-nova-legenda-investytsiinoi-nerukhomosti-v-karpatakh.html"
+  },
+  {
+    "path": "/ua/construction-progress/dinamika-budivnictva-son-daven-u-kvitni",
+    "file": "research/pages/ua__construction-progress__dinamika-budivnictva-son-daven-u-kvitni.html"
+  },
+  {
+    "path": "/ua/construction-progress/hid-budivnictva-son-daven-pidsumki-lipnya",
+    "file": "research/pages/ua__construction-progress__hid-budivnictva-son-daven-pidsumki-lipnya.html"
+  },
+  {
+    "path": "/ua/construction-progress/hid-budivnictva-son-daven-u-serpni-2026",
+    "file": "research/pages/ua__construction-progress__hid-budivnictva-son-daven-u-serpni-2026.html"
+  },
+  {
+    "path": "/ua/construction-progress/hid-budivnictva-son-daven-u-veresni-2026",
+    "file": "research/pages/ua__construction-progress__hid-budivnictva-son-daven-u-veresni-2026.html"
+  },
+  {
+    "path": "/ua/construction-progress/son-daven-zvit-budivnictva-za-cherven",
+    "file": "research/pages/ua__construction-progress__son-daven-zvit-budivnictva-za-cherven.html"
+  },
+  {
+    "path": "/ua/news/forbes-pro-son-daven",
+    "file": "research/pages/ua__news__forbes-pro-son-daven.html"
+  },
+  {
+    "path": "/ua/news/turistichniy-ta-investiciyniy-potencial-yaremche",
+    "file": "research/pages/ua__news__turistichniy-ta-investiciyniy-potencial-yaremche.html"
+  },
+  {
+    "path": "/ua/news/yaremche-ne-bukovel-kudi-investuvati-v-karpatah-u-2026-roci",
+    "file": "research/pages/ua__news__yaremche-ne-bukovel-kudi-investuvati-v-karpatah-u-2026-roci.html"
   }
 ]

@@ -1,0 +1,18 @@
+{
+  "results": [
+    "Initial loader completes; cookie consent omitted",
+    "Menu opens and closes",
+    "Consultation dialog and original input normalization",
+    "Ambient audio toggle",
+    "Apartment type transition",
+    "FAQ accordion opens and closes",
+    "Summer/winter scene switch",
+    "Project gallery pagination",
+    "Local news navigation",
+    "Ukrainian route renders",
+    "Return from Ukrainian page to English",
+    "No horizontal overflow at 390px"
+  ],
+  "errors": [],
+  "failed": []
+}

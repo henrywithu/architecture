@@ -1,4 +1,9 @@
 {
+  "/en": {
+    "name": "en",
+    "title": "Son Daven — Design Resort Hotel in Yaremche",
+    "pageId": "6940a0abd735a1e3a640d032"
+  },
   "/en/construction-progress": {
     "name": "en__construction-progress",
     "title": "Stages of construction — Son Daven investment project",
@@ -73,5 +78,55 @@
     "name": "ua__news",
     "title": "Новини — Iнвестиційний проєкт Son Daven",
     "pageId": "6940a0abd735a1e3a640d03b"
+  },
+  "/ua/construction-progress/budivnictvo-son-daven-u-travni": {
+    "name": "ua__construction-progress__budivnictvo-son-daven-u-travni",
+    "title": "Будівництво Son Daven у травні — Iнвестиційний проєкт Son Daven",
+    "pageId": "6940a0abd735a1e3a640d03a"
+  },
+  "/ua/construction-progress/budivnytstva-son-daven-nova-legenda-investytsiinoi-nerukhomosti-v-karpatakh": {
+    "name": "ua__construction-progress__budivnytstva-son-daven-nova-legenda-investytsiinoi-nerukhomosti-v-karpatakh",
+    "title": "Будівництво Son Daven: нова легенда інвестиційної нерухомості в Карпатах — Iнвестиційний проєкт Son Daven",
+    "pageId": "6940a0abd735a1e3a640d03a"
+  },
+  "/ua/construction-progress/dinamika-budivnictva-son-daven-u-kvitni": {
+    "name": "ua__construction-progress__dinamika-budivnictva-son-daven-u-kvitni",
+    "title": "Динаміка будівництва Son Daven у квітні — Iнвестиційний проєкт Son Daven",
+    "pageId": "6940a0abd735a1e3a640d03a"
+  },
+  "/ua/construction-progress/hid-budivnictva-son-daven-pidsumki-lipnya": {
+    "name": "ua__construction-progress__hid-budivnictva-son-daven-pidsumki-lipnya",
+    "title": "Хід будівництва Son Daven: підсумки липня — Iнвестиційний проєкт Son Daven",
+    "pageId": "6940a0abd735a1e3a640d03a"
+  },
+  "/ua/construction-progress/hid-budivnictva-son-daven-u-serpni-2026": {
+    "name": "ua__construction-progress__hid-budivnictva-son-daven-u-serpni-2026",
+    "title": "Хід будівництва Son Daven у серпні 2026 — Iнвестиційний проєкт Son Daven",
+    "pageId": "6940a0abd735a1e3a640d03a"
+  },
+  "/ua/construction-progress/hid-budivnictva-son-daven-u-veresni-2026": {
+    "name": "ua__construction-progress__hid-budivnictva-son-daven-u-veresni-2026",
+    "title": "Хід будівництва Son Daven у вересні 2026 — Iнвестиційний проєкт Son Daven",
+    "pageId": "6940a0abd735a1e3a640d03a"
+  },
+  "/ua/construction-progress/son-daven-zvit-budivnictva-za-cherven": {
+    "name": "ua__construction-progress__son-daven-zvit-budivnictva-za-cherven",
+    "title": "Son Daven: звіт будівництва за червень — Iнвестиційний проєкт Son Daven",
+    "pageId": "6940a0abd735a1e3a640d03a"
+  },
+  "/ua/news/forbes-pro-son-daven": {
+    "name": "ua__news__forbes-pro-son-daven",
+    "title": "Forbes про Son Daven — Iнвестиційний проєкт Son Daven",
+    "pageId": "6940a0abd735a1e3a640d039"
+  },
+  "/ua/news/turistichniy-ta-investiciyniy-potencial-yaremche": {
+    "name": "ua__news__turistichniy-ta-investiciyniy-potencial-yaremche",
+    "title": "Туристичний та інвестиційний потенціал Яремче — Iнвестиційний проєкт Son Daven",
+    "pageId": "6940a0abd735a1e3a640d039"
+  },
+  "/ua/news/yaremche-ne-bukovel-kudi-investuvati-v-karpatah-u-2026-roci": {
+    "name": "ua__news__yaremche-ne-bukovel-kudi-investuvati-v-karpatah-u-2026-roci",
+    "title": "Яремче не Буковель. Куди інвестувати в Карпатах у 2026 році — Iнвестиційний проєкт Son Daven",
+    "pageId": "6940a0abd735a1e3a640d039"
   }
 }

@@ -1,0 +1,131 @@
+{
+  ".hero-s": {
+    "rect": {
+      "x": 16,
+      "y": 0,
+      "width": 1408,
+      "height": 900,
+      "top": 0,
+      "right": 1424,
+      "bottom": 900,
+      "left": 16
+    },
+    "font": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "color": "rgb(44, 40, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "fontSize": "14.4px"
+  },
+  ".hero-s_t": {
+    "rect": {
+      "x": 16,
+      "y": 0,
+      "width": 1408,
+      "height": 228.203125,
+      "top": 0,
+      "right": 1424,
+      "bottom": 228.203125,
+      "left": 16
+    },
+    "font": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "color": "rgb(44, 40, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "fontSize": "14.4px"
+  },
+  ".header": {
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 76,
+      "top": 0,
+      "right": 1440,
+      "bottom": 76,
+      "left": 0
+    },
+    "font": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "color": "rgb(44, 40, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "fontSize": "14.4px"
+  },
+  ".preloader": {
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "font": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "color": "rgb(44, 40, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "fontSize": "14.4px"
+  },
+  ".intro-s": null,
+  ".about-s": {
+    "rect": {
+      "x": 16,
+      "y": 4859,
+      "width": 1408,
+      "height": 1997.6875,
+      "top": 4859,
+      "right": 1424,
+      "bottom": 6856.6875,
+      "left": 16
+    },
+    "font": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "color": "rgb(44, 40, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "fontSize": "14.4px"
+  },
+  ".seasons-s": {
+    "rect": {
+      "x": 16,
+      "y": 21690.953125,
+      "width": 1408,
+      "height": 900,
+      "top": 21690.953125,
+      "right": 1424,
+      "bottom": 22590.953125,
+      "left": 16
+    },
+    "font": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "color": "rgb(44, 40, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "fontSize": "14.4px"
+  },
+  ".footer": {
+    "rect": {
+      "x": 0,
+      "y": 31402.640625,
+      "width": 1440,
+      "height": 1800,
+      "top": 31402.640625,
+      "right": 1440,
+      "bottom": 33202.640625,
+      "left": 0
+    },
+    "font": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "color": "rgb(44, 40, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "fontSize": "14.4px"
+  },
+  "[modal-cta-main]": {
+    "rect": {
+      "x": 480,
+      "y": 210,
+      "width": 480,
+      "height": 480,
+      "top": 210,
+      "right": 960,
+      "bottom": 690,
+      "left": 480
+    },
+    "font": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "color": "rgb(44, 40, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "fontSize": "14.4px"
+  }
+}
