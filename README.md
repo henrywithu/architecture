@@ -1,6 +1,6 @@
-# Architecture
+# Trapnest Architecture
 
-Source-backed reconstruction of [Son Daven](https://sondaven.com/en), implemented with TypeScript and Vite. No deployment is configured.
+An independent spatial project by Henry, part of [Trapnest](https://henrywithu.com/). Architecture, atmosphere, material, and interactive design, implemented with TypeScript and Vite. Production domain: **architecture.henrywithu.com**.
 
 ```sh
 npm install
@@ -9,7 +9,33 @@ npm run build
 npm run preview
 ```
 
-The English home page is at `/en` (also `/`). Ukrainian home, news listings, construction updates, and the English articles linked from the home page are local routes.
+The home page is at `/`. `/journal` collects spatial essays adapted from Henry’s published work, `/field-notes` links into the wider Trapnest journal, and `/studies/*` holds architectural reference studies. Previous `/en` and `/ua` URLs remain supported as aliases and redirect to their canonical English routes in production.
+
+## Cloudflare Workers deployment
+
+This is a **Workers Static Assets** deployment. It needs no database, runtime secrets, or application server. `wrangler.jsonc` configures the Worker `trapnest-architecture` and the custom domain `architecture.henrywithu.com`. Deployment has been prepared and dry-run validated; publishing is a separate step.
+
+```sh
+npm ci
+npm run deploy:check       # build and validate without publishing
+npm run verify:deployment # verify generated metadata, routes, and brand assets
+npm run dev:worker         # preview actual Workers routing at localhost:8787
+npm run deploy            # build and publish with your authenticated Cloudflare account
+```
+
+For Cloudflare Workers Builds, connect this repository, select the `main` branch, set the build command to `npm run build`, and the deploy command to `npx wrangler deploy`. Use the repository root as the project directory. Authenticate the CLI with your own Cloudflare account for a manual deployment, or configure the token through Cloudflare’s build settings. No credential belongs in this repository. The `henrywithu.com` zone must be active in that account; Wrangler provisions the custom-domain DNS record and certificate. An existing CNAME on the same hostname must be resolved before attaching the custom domain.
+
+The build writes 13 canonical HTML pages with crawlable text, per-route canonical/Open Graph/Twitter metadata, and structured data; `sitemap.xml` and legacy redirects are generated from the route registry. Unknown URLs return the branded 404 page. Static image, font, audio, and video assets are served locally; every file is checked against the 25 MiB Workers asset limit. Headers set content-type protection, referrer handling, and asset caching.
+
+## Identity and content
+
+- `public/brand/og.jpg`: generated 1200 × 630 architectural social card.
+- `public/brand/logo.png`: generated architectural emblem; favicon and touch-icon derivatives sit beside it. `public/favicon.ico` supports browsers requesting the standard icon path.
+- `src/styles/brand.css`: restrained wordmark, typography, and brand layout refinements.
+- `src/content/journal.json`: source URLs, descriptions, featured-image paths, and original article dates for House, Design, Floral, and wider field notes.
+- `src/core/metadata.ts` and `scripts/build-site.mjs`: browser-navigation metadata and crawlable deployment pages.
+
+The visual experience originated as a source-backed reconstruction of [Son Daven](https://sondaven.com/en). Its motion algorithms, WebGL layers, transitions, hero sequence, ambient audio, and video references remain intact. Architectural images are presented as reference studies. The former property sales claims, prices, contact information, and consultation form have been replaced with Trapnest editorial content and working links into Henry’s site.
 
 ## Architecture
 
@@ -30,7 +56,7 @@ The production Webflow bundle, jQuery, Barba, Slater loader, analytics, and cook
 
 See [research/REVERSE-ENGINEERING.md](research/REVERSE-ENGINEERING.md) for extraction details and behavior mapping. Inspection scripts use Playwright with a system Chromium at `/usr/bin/chromium`. Screenshots are intentionally excluded from Git; they can be regenerated. The original CSS/markup and every asset retain provenance in the manifest.
 
-The consultation form validates and saves a preview request in session storage. It is not connected to the original business's form service. Apartment video links retain the reference's Vimeo IDs, including its three empty IDs; the other visual and audio assets are local originals.
+The destination dialog links to Trapnest, Henry’s author page, and the architecture journal. Room-study video links retain the reference’s Vimeo IDs, including its three empty IDs; visual and audio assets remain local originals. Archived construction films are retained within the architectural reference studies.
 
 ```sh
 npm run verify:assets

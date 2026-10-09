@@ -25,4 +25,17 @@ export function updateMetadata(path: string): void {
   for (const [selector, value] of Object.entries(values))
     document.querySelector<HTMLMetaElement>(selector)?.setAttribute("content", value);
   document.querySelector<HTMLLinkElement>('link[rel="canonical"]')?.setAttribute("href", url);
+  const creator = { "@type": "Person", name: "Henry", url: "https://henrywithu.com/about/" };
+  const schema = post ? {
+    "@context": "https://schema.org", "@type": "Article", headline: post.title,
+    description: summary, mainEntityOfPage: url, image: origin + post.image,
+    author: creator, publisher: { "@type": "Organization", name: "Trapnest", url: "https://henrywithu.com/" },
+    isBasedOn: `https://henrywithu.com/${post.source}/`,
+  } : {
+    "@context": "https://schema.org", "@type": "WebSite", name: "Trapnest Architecture",
+    url: origin + "/", description,
+    isPartOf: { "@type": "WebSite", name: "Trapnest", url: "https://henrywithu.com/" }, creator,
+  };
+  const structuredData = document.querySelector("#site-schema");
+  if (structuredData) structuredData.textContent = JSON.stringify(schema);
 }

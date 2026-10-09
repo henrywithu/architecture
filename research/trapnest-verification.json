@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-09",
+  "originalCommit": "57229ff",
+  "originalAssets": {
+    "count": 459,
+    "bytes": 227693748,
+    "hashErrors": []
+  },
+  "audioVideoReferencesVerified": 41,
+  "protectedModulesChanged": [],
+  "interactionChecks": {
+    "results": [
+      "Initial loader completes; cookie consent omitted",
+      "Menu opens and closes",
+      "Trapnest destinations dialog opens and closes",
+      "Ambient audio toggle",
+      "Apartment type transition",
+      "FAQ accordion opens and closes",
+      "Summer/winter scene switch",
+      "Project gallery pagination",
+      "Journal navigation and metadata",
+      "Editorial article and route metadata",
+      "Legacy route renders the updated identity",
+      "Return to Architecture home",
+      "No horizontal overflow at 390px"
+    ],
+    "errors": [],
+    "failed": []
+  },
+  "deployment": {
+    "canonicalPages": 13,
+    "legacyRedirects": 52,
+    "wrangler": "4.149.0",
+    "dryRun": "passed",
+    "localRuntime": [
+      "canonical routes",
+      "legacy redirects",
+      "trailing-slash redirects",
+      "branded 404",
+      "original video response",
+      "headers",
+      "article deep link",
+      "home navigation",
+      "metadata reset",
+      "single app mount",
+      "no-JavaScript edition"
+    ]
+  },
+  "responsive": {
+    "desktop": "1440x900 passed",
+    "mobile": "390x844 passed",
+    "horizontalOverflow": 0
+  },
+  "published": false
+}

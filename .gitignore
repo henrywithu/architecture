@@ -8,3 +8,6 @@ test-results/
 !.env.example
 research/screenshots/
 research/network/
+.wrangler/
+.dev.vars
+.dev.vars.*
