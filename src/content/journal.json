@@ -1,0 +1,137 @@
+{
+  "posts": [
+    {
+      "slug": "spatial-mechanics",
+      "title": "Trapnest House: Spatial Mechanics",
+      "date": "27/09/2026",
+      "source": "trapnest-house-spatial-mechanics",
+      "image": "/brand/journal-house.webp",
+      "description": "A quiet digital sanctuary, built from camera kinematics, tactile objects, and the feeling of walking through a room.",
+      "lead": "What if a website were an actual room?",
+      "body": [
+        [
+          "A room you can move through",
+          "Trapnest House turns the idea of a website into a navigable sanctuary. Warm stone, ambient reflections, and a collection of objects become the setting for an exploration of the wider Trapnest universe."
+        ],
+        [
+          "Movement with weight",
+          "Camera motion follows a keyframed path, while a separate inertia system carries the energy of each gesture. Position and orientation settle at different rates, giving movement a measured, cinematic quality."
+        ],
+        [
+          "Objects as invitations",
+          "A cylindrical gallery, a layered journal of architectural plates, and tactile inspection stages turn browsing into a sequence of spatial encounters. The feeling of weight comes from a careful relationship between visual motion and sound."
+        ],
+        [
+          "Space as an interface",
+          "House offers an architectural way of thinking about interaction: circulation becomes navigation, objects become doors, and the atmosphere of a room becomes part of the story."
+        ]
+      ],
+      "live": "https://house.henrywithu.com/"
+    },
+    {
+      "slug": "from-sketch-to-space",
+      "title": "Trapnest Design: From Sketch to Space",
+      "date": "03/10/2026",
+      "source": "trapnest-design-from-sketch-to-space",
+      "image": "/brand/journal-design.webp",
+      "description": "A journey from pencil on paper into an interactive world, where camera movement and tactile shaders give an idea dimension.",
+      "lead": "The distance between an idea and a place is a change of perspective.",
+      "body": [
+        [
+          "The sketch as a beginning",
+          "Trapnest Design starts with the intimacy of pencil on paper and opens into a spatial world. It treats the sketch as a threshold: a way of giving an idea enough form to step inside it."
+        ],
+        [
+          "A camera that feels alive",
+          "The original essay explores aerodynamic camera behaviour, colour relationships in Oklab, and tactile shaders. These systems support a coherent sensation of moving from a flat drawing into a place with depth."
+        ],
+        [
+          "Craft in the small details",
+          "The experience is shaped by relationships: how a gesture affects the camera, how colour carries through a transition, and how a surface responds when it is approached. Those details turn technique into atmosphere."
+        ],
+        [
+          "Drawing becomes inhabiting",
+          "Design belongs to the same enquiry as Architecture: how a digital medium can communicate the emotional quality of a space, rather than only its outline."
+        ]
+      ],
+      "live": "https://design.henrywithu.com/"
+    },
+    {
+      "slug": "a-living-spatial-garden",
+      "title": "Trapnest Floral: A Living Spatial Garden",
+      "date": "24/09/2026",
+      "source": "engineering-trapnest-floral-fluid-optics-and-kinetic-spatial-worlds",
+      "image": "/brand/journal-floral.webp",
+      "description": "A living spatial garden shaped by fluid optics, autonomous motion, reflective water, and a close attention to atmosphere.",
+      "lead": "A garden is a composition that never quite holds still.",
+      "body": [
+        [
+          "An atmosphere in motion",
+          "Trapnest Floral brings together a studio, a mountain landscape, and an interactive playground. Fluid simulation, autonomous flight, and water reflections allow each setting to respond with its own character."
+        ],
+        [
+          "The intelligence of water",
+          "Planar reflections and gently distorted texture coordinates give the water its depth and movement. The original engineering essay shows how reflection, noise, blur, and colour grading contribute to a calm visual atmosphere."
+        ],
+        [
+          "A living point of view",
+          "A bee navigates through pursuit, steering, and analytical flight paths. Scroll and pointer gestures become part of a living sequence, while project surfaces bend with the energy of a drag."
+        ],
+        [
+          "Landscape as an experience",
+          "Floral suggests a useful architectural idea: a setting becomes memorable when its parts participate in the same rhythm. Light, movement, water, and interaction belong to one spatial composition."
+        ]
+      ],
+      "live": "https://floral.henrywithu.com/"
+    }
+  ],
+  "notes": [
+    [
+      "An Expedition Through the Trapnest Workshop",
+      "07/10/2026",
+      "an-expedition-through-the-trapnest-workshop",
+      "Thirty-eight sub-projects connected by one creative expedition."
+    ],
+    [
+      "Trapnest Theory: The Unified Field",
+      "06/10/2026",
+      "trapnest-theory-the-unified-field",
+      "Fourteen experimental worlds brought into a continuous spatial experience."
+    ],
+    [
+      "Trapnest Vines: The Calculus of Terroir",
+      "03/10/2026",
+      "trapnest-vines-the-calculus-of-terroir",
+      "A landscape shaped through noise, fluid dynamics, and the memory of terrain."
+    ],
+    [
+      "Trapnest Voyage: Summer Was a Heading",
+      "07/10/2026",
+      "trapnest-voyage-summer-was-a-heading",
+      "An unsetting sun, a golden sea, and the mechanics behind a summer journey."
+    ],
+    [
+      "Trapnest Slides: The Physics of Flow",
+      "01/10/2026",
+      "trapnest-slides-the-physics-of-flow",
+      "A visual journal expressed through spatial movement and elastic surfaces."
+    ],
+    [
+      "Trapnest Kaizen: Hold, Release, Repeat",
+      "02/10/2026",
+      "trapnest-kaizen-hold-release-repeat",
+      "Paper, gesture, and the rhythm of a hand-painted world."
+    ],
+    [
+      "Trapnest Sleep: The Calculus of Winding Down",
+      "27/09/2026",
+      "trapnest-sleep-the-calculus-of-winding-down",
+      "Circadian rhythms, procedural surfaces, and the art of making room for rest."
+    ]
+  ],
+  "routeDescriptions": {
+    "/journal/spatial-mechanics": "A quiet digital sanctuary, built from camera kinematics, tactile objects, and the feeling of walking through a room.",
+    "/journal/from-sketch-to-space": "A journey from pencil on paper into an interactive world, where camera movement and tactile shaders give an idea dimension.",
+    "/journal/a-living-spatial-garden": "A living spatial garden shaped by fluid optics, autonomous motion, reflective water, and a close attention to atmosphere."
+  }
+}

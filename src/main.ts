@@ -8,6 +8,7 @@ import "./styles/controls.css";
 import "./styles/effects.css";
 import "./styles/motion.css";
 import "./styles/apartment-tabs.css";
+import "./styles/brand.css";
 import "lenis/dist/lenis.css";
 import { HomePage } from "./components/HomePage";
 import { Lifecycle, useLifecycle } from "./core/Lifecycle";
@@ -25,6 +26,8 @@ import {
   disposeRouter,
 } from "./core/router";
 const app = document.querySelector<HTMLDivElement>("#app")!;
+// The deployment build includes crawlable content. Mount the interactive experience once.
+app.replaceChildren();
 const page = new HomePage();
 const appScope = new Lifecycle();
 const routeScope = new Lifecycle();

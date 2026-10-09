@@ -1,132 +1,236 @@
 {
   "/en": {
     "name": "en",
-    "title": "Son Daven — Design Resort Hotel in Yaremche",
-    "pageId": "6940a0abd735a1e3a640d032"
+    "title": "Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d032",
+    "canonical": "/"
   },
   "/en/construction-progress": {
     "name": "en__construction-progress",
-    "title": "Stages of construction — Son Daven investment project",
-    "pageId": "6975101af429a54c21c14176"
+    "title": "Field notes — Trapnest Architecture",
+    "pageId": "6975101af429a54c21c14176",
+    "canonical": "/field-notes"
+  },
+  "/field-notes": {
+    "name": "en__construction-progress",
+    "title": "Field notes — Trapnest Architecture",
+    "pageId": "6975101af429a54c21c14176",
+    "canonical": "/field-notes"
   },
   "/en/construction-progress/budivnictvo-son-daven-u-travni": {
     "name": "en__construction-progress__budivnictvo-son-daven-u-travni",
-    "title": "Будівництво Son Daven у травні — Son Daven Investment Project",
-    "pageId": "6940a0abd735a1e3a640d03a"
+    "title": "Foundations & weight — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/foundations"
+  },
+  "/studies/foundations": {
+    "name": "en__construction-progress__budivnictvo-son-daven-u-travni",
+    "title": "Foundations & weight — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/foundations"
   },
   "/en/construction-progress/budivnytstva-son-daven-nova-legenda-investytsiinoi-nerukhomosti-v-karpatakh": {
     "name": "en__construction-progress__budivnytstva-son-daven-nova-legenda-investytsiinoi-nerukhomosti-v-karpatakh",
-    "title": "First phase of the hotel to open by the end of 2027 — Son Daven Investment Project",
-    "pageId": "6940a0abd735a1e3a640d03a"
+    "title": "The room & its horizon — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/horizon"
+  },
+  "/studies/horizon": {
+    "name": "en__construction-progress__budivnytstva-son-daven-nova-legenda-investytsiinoi-nerukhomosti-v-karpatakh",
+    "title": "The room & its horizon — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/horizon"
   },
   "/en/construction-progress/dinamika-budivnictva-son-daven-u-kvitni": {
     "name": "en__construction-progress__dinamika-budivnictva-son-daven-u-kvitni",
-    "title": "Динаміка будівництва Son Daven у квітні — Son Daven Investment Project",
-    "pageId": "6940a0abd735a1e3a640d03a"
+    "title": "Material & texture — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/material"
+  },
+  "/studies/material": {
+    "name": "en__construction-progress__dinamika-budivnictva-son-daven-u-kvitni",
+    "title": "Material & texture — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/material"
   },
   "/en/construction-progress/hid-budivnictva-son-daven-pidsumki-lipnya": {
     "name": "en__construction-progress__hid-budivnictva-son-daven-pidsumki-lipnya",
-    "title": "Хід будівництва Son Daven: підсумки липня — Son Daven Investment Project",
-    "pageId": "6940a0abd735a1e3a640d03a"
+    "title": "A rhythm of openings — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/openings"
+  },
+  "/studies/openings": {
+    "name": "en__construction-progress__hid-budivnictva-son-daven-pidsumki-lipnya",
+    "title": "A rhythm of openings — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/openings"
   },
   "/en/construction-progress/hid-budivnictva-son-daven-u-serpni-2026": {
     "name": "en__construction-progress__hid-budivnictva-son-daven-u-serpni-2026",
-    "title": "Хід будівництва Son Daven у серпні 2026 — Son Daven Investment Project",
-    "pageId": "6940a0abd735a1e3a640d03a"
+    "title": "The edge of the landscape — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/landscape"
+  },
+  "/studies/landscape": {
+    "name": "en__construction-progress__hid-budivnictva-son-daven-u-serpni-2026",
+    "title": "The edge of the landscape — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/landscape"
   },
   "/en/construction-progress/hid-budivnictva-son-daven-u-veresni-2026": {
     "name": "en__construction-progress__hid-budivnictva-son-daven-u-veresni-2026",
-    "title": "Хід будівництва Son Daven у вересні 2026 — Son Daven Investment Project",
-    "pageId": "6940a0abd735a1e3a640d03a"
+    "title": "Light through the seasons — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/seasonal-light"
+  },
+  "/studies/seasonal-light": {
+    "name": "en__construction-progress__hid-budivnictva-son-daven-u-veresni-2026",
+    "title": "Light through the seasons — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/seasonal-light"
   },
   "/en/construction-progress/son-daven-zvit-budivnictva-za-cherven": {
     "name": "en__construction-progress__son-daven-zvit-budivnictva-za-cherven",
-    "title": "Son Daven: звіт будівництва за червень — Son Daven Investment Project",
-    "pageId": "6940a0abd735a1e3a640d03a"
+    "title": "The sequence of a space — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/sequence"
+  },
+  "/studies/sequence": {
+    "name": "en__construction-progress__son-daven-zvit-budivnictva-za-cherven",
+    "title": "The sequence of a space — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/sequence"
   },
   "/en/news": {
     "name": "en__news",
-    "title": "News — Son Daven Investment Project",
-    "pageId": "6940a0abd735a1e3a640d03b"
+    "title": "Journal — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03b",
+    "canonical": "/journal"
+  },
+  "/journal": {
+    "name": "en__news",
+    "title": "Journal — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03b",
+    "canonical": "/journal"
   },
   "/en/news/forbes-pro-son-daven": {
     "name": "en__news__forbes-pro-son-daven",
-    "title": "«The economics are better than in residential real estate» — Son Daven Investment Project",
-    "pageId": "6940a0abd735a1e3a640d039"
+    "title": "Trapnest House: Spatial Mechanics — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d039",
+    "canonical": "/journal/spatial-mechanics"
+  },
+  "/journal/spatial-mechanics": {
+    "name": "en__news__forbes-pro-son-daven",
+    "title": "Trapnest House: Spatial Mechanics — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d039",
+    "canonical": "/journal/spatial-mechanics"
   },
   "/en/news/turistichniy-ta-investiciyniy-potencial-yaremche": {
     "name": "en__news__turistichniy-ta-investiciyniy-potencial-yaremche",
-    "title": "Туристичний та інвестиційний потенціал Яремче — Son Daven Investment Project",
-    "pageId": "6940a0abd735a1e3a640d039"
+    "title": "Trapnest Design: From Sketch to Space — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d039",
+    "canonical": "/journal/from-sketch-to-space"
+  },
+  "/journal/from-sketch-to-space": {
+    "name": "en__news__turistichniy-ta-investiciyniy-potencial-yaremche",
+    "title": "Trapnest Design: From Sketch to Space — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d039",
+    "canonical": "/journal/from-sketch-to-space"
   },
   "/en/news/yaremche-ne-bukovel-kudi-investuvati-v-karpatah-u-2026-roci": {
     "name": "en__news__yaremche-ne-bukovel-kudi-investuvati-v-karpatah-u-2026-roci",
-    "title": "Яремче не Буковель. Куди інвестувати в Карпатах у 2026 році — Son Daven Investment Project",
-    "pageId": "6940a0abd735a1e3a640d039"
+    "title": "Trapnest Floral: A Living Spatial Garden — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d039",
+    "canonical": "/journal/a-living-spatial-garden"
+  },
+  "/journal/a-living-spatial-garden": {
+    "name": "en__news__yaremche-ne-bukovel-kudi-investuvati-v-karpatah-u-2026-roci",
+    "title": "Trapnest Floral: A Living Spatial Garden — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d039",
+    "canonical": "/journal/a-living-spatial-garden"
   },
   "/ua": {
     "name": "ua",
-    "title": "Son Daven — Курортний дизайн-готель у Яремче",
-    "pageId": "6940a0abd735a1e3a640d032"
+    "title": "Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d032",
+    "canonical": "/"
   },
   "/ua/construction-progress": {
     "name": "ua__construction-progress",
-    "title": "Хід будівництва — Iнвестиційний проєкт Son Daven",
-    "pageId": "6975101af429a54c21c14176"
+    "title": "Field notes — Trapnest Architecture",
+    "pageId": "6975101af429a54c21c14176",
+    "canonical": "/field-notes"
   },
   "/ua/news": {
     "name": "ua__news",
-    "title": "Новини — Iнвестиційний проєкт Son Daven",
-    "pageId": "6940a0abd735a1e3a640d03b"
+    "title": "Journal — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03b",
+    "canonical": "/journal"
   },
   "/ua/construction-progress/budivnictvo-son-daven-u-travni": {
     "name": "ua__construction-progress__budivnictvo-son-daven-u-travni",
-    "title": "Будівництво Son Daven у травні — Iнвестиційний проєкт Son Daven",
-    "pageId": "6940a0abd735a1e3a640d03a"
+    "title": "Foundations & weight — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/foundations"
   },
   "/ua/construction-progress/budivnytstva-son-daven-nova-legenda-investytsiinoi-nerukhomosti-v-karpatakh": {
     "name": "ua__construction-progress__budivnytstva-son-daven-nova-legenda-investytsiinoi-nerukhomosti-v-karpatakh",
-    "title": "Будівництво Son Daven: нова легенда інвестиційної нерухомості в Карпатах — Iнвестиційний проєкт Son Daven",
-    "pageId": "6940a0abd735a1e3a640d03a"
+    "title": "The room & its horizon — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/horizon"
   },
   "/ua/construction-progress/dinamika-budivnictva-son-daven-u-kvitni": {
     "name": "ua__construction-progress__dinamika-budivnictva-son-daven-u-kvitni",
-    "title": "Динаміка будівництва Son Daven у квітні — Iнвестиційний проєкт Son Daven",
-    "pageId": "6940a0abd735a1e3a640d03a"
+    "title": "Material & texture — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/material"
   },
   "/ua/construction-progress/hid-budivnictva-son-daven-pidsumki-lipnya": {
     "name": "ua__construction-progress__hid-budivnictva-son-daven-pidsumki-lipnya",
-    "title": "Хід будівництва Son Daven: підсумки липня — Iнвестиційний проєкт Son Daven",
-    "pageId": "6940a0abd735a1e3a640d03a"
+    "title": "A rhythm of openings — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/openings"
   },
   "/ua/construction-progress/hid-budivnictva-son-daven-u-serpni-2026": {
     "name": "ua__construction-progress__hid-budivnictva-son-daven-u-serpni-2026",
-    "title": "Хід будівництва Son Daven у серпні 2026 — Iнвестиційний проєкт Son Daven",
-    "pageId": "6940a0abd735a1e3a640d03a"
+    "title": "The edge of the landscape — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/landscape"
   },
   "/ua/construction-progress/hid-budivnictva-son-daven-u-veresni-2026": {
     "name": "ua__construction-progress__hid-budivnictva-son-daven-u-veresni-2026",
-    "title": "Хід будівництва Son Daven у вересні 2026 — Iнвестиційний проєкт Son Daven",
-    "pageId": "6940a0abd735a1e3a640d03a"
+    "title": "Light through the seasons — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/seasonal-light"
   },
   "/ua/construction-progress/son-daven-zvit-budivnictva-za-cherven": {
     "name": "ua__construction-progress__son-daven-zvit-budivnictva-za-cherven",
-    "title": "Son Daven: звіт будівництва за червень — Iнвестиційний проєкт Son Daven",
-    "pageId": "6940a0abd735a1e3a640d03a"
+    "title": "The sequence of a space — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d03a",
+    "canonical": "/studies/sequence"
   },
   "/ua/news/forbes-pro-son-daven": {
     "name": "ua__news__forbes-pro-son-daven",
-    "title": "Forbes про Son Daven — Iнвестиційний проєкт Son Daven",
-    "pageId": "6940a0abd735a1e3a640d039"
+    "title": "Trapnest House: Spatial Mechanics — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d039",
+    "canonical": "/journal/spatial-mechanics"
   },
   "/ua/news/turistichniy-ta-investiciyniy-potencial-yaremche": {
     "name": "ua__news__turistichniy-ta-investiciyniy-potencial-yaremche",
-    "title": "Туристичний та інвестиційний потенціал Яремче — Iнвестиційний проєкт Son Daven",
-    "pageId": "6940a0abd735a1e3a640d039"
+    "title": "Trapnest Design: From Sketch to Space — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d039",
+    "canonical": "/journal/from-sketch-to-space"
   },
   "/ua/news/yaremche-ne-bukovel-kudi-investuvati-v-karpatah-u-2026-roci": {
     "name": "ua__news__yaremche-ne-bukovel-kudi-investuvati-v-karpatah-u-2026-roci",
-    "title": "Яремче не Буковель. Куди інвестувати в Карпатах у 2026 році — Iнвестиційний проєкт Son Daven",
-    "pageId": "6940a0abd735a1e3a640d039"
+    "title": "Trapnest Floral: A Living Spatial Garden — Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d039",
+    "canonical": "/journal/a-living-spatial-garden"
+  },
+  "/": {
+    "name": "en",
+    "title": "Trapnest Architecture",
+    "pageId": "6940a0abd735a1e3a640d032",
+    "canonical": "/"
   }
 }

@@ -5,6 +5,7 @@ import { initScripts } from "./initialize";
 import { initAllScenes, SceneManager } from "./scenes";
 import { initLenis, unlockScroll } from "./scroll";
 import { Lifecycle, useLifecycle, listen } from "./Lifecycle";
+import { updateMetadata } from "./metadata";
 const templates = import.meta.glob("../pages/templates/*.html", {
   query: "?raw",
   import: "default",
@@ -20,13 +21,14 @@ export function routeExists(path: string): boolean {
   return path === "/en" || path === "/" || path in routes;
 }
 export async function renderInitialRoute(path: string): Promise<void> {
+  path = path.replace(/\/+$/, "") || "/";
+  updateMetadata(path);
   if (path === "/en" || path === "/") return;
   const data = routes[path as keyof typeof routes];
   if (!data) return;
   const main = document.querySelector(".transition-container");
   if (main)
     main.outerHTML = await templates[`../pages/templates/${data.name}.html`]();
-  document.title = data.title;
   document.documentElement.dataset.wfPage = data.pageId;
 }
 function initializeRoute(): void {
@@ -79,6 +81,7 @@ export async function navigate(
   push = true,
   hash = "",
 ): Promise<void> {
+  path = path.replace(/\/+$/, "") || "/";
   if (busy) return;
   busy = true;
   try {
@@ -96,7 +99,7 @@ export async function navigate(
     if (data) {
       document.querySelector(".transition-container")!.outerHTML =
         await templates[`../pages/templates/${data.name}.html`]();
-      document.title = data.title;
+      updateMetadata(path);
       document.documentElement.dataset.wfPage = data.pageId;
     }
     if (push) history.pushState(null, "", path + hash);
